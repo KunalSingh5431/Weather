@@ -17,7 +17,7 @@ Welcome to the Weather application! This is a simple weather application that pr
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** ReactJS
 - **Backend:** Node.js, Express.js
 - **API:** OpenWeatherMap API
 
