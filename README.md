@@ -12,7 +12,8 @@ Welcome to the Weather application! This is a simple weather application that pr
 
 ## Screenshots
 
-
+![Screenshot 2024-07-22 013825](https://github.com/user-attachments/assets/67242920-7a57-4cdb-a2e4-d9a8197904ba)
+![Screenshot 2024-07-22 013847](https://github.com/user-attachments/assets/59fe596e-eea2-46e0-9c11-9207f73ea02d)
 
 ## Tech Stack
 
